@@ -1,9 +1,9 @@
 # Who could benefit from this training?
 Beginners who wish to build a steady foundation in Data Science as well as working professionals who are looking for a quick recap of key topics.
 
-# Total Duration: 
+## Total Duration: 
 12 working days
-# Programming Language: 
+## Programming Language: 
 Python 3.x
-# IDE: 
+## IDE: 
 Jupyter Notebook
